@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\C++\snake_game\snake_game\game.h(39,21): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+E:\C++\snake_game\snake_game\engine.h(58,13): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:REF' specification
+  snake_game.vcxproj -> E:\C++\snake_game\x64\Debug\snake_game.exe
